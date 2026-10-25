@@ -1,0 +1,4 @@
+image1: 27587 samples, 3.4484 s, 14 x 9K
+image2: 23356 samples, 2.9195 s, 12 x 9K
+image3: 24033 samples, 3.0041 s, 3 x 32K
+image4: 25048 samples, 3.131 s, 7 x 32K, original 8-bit PCM
